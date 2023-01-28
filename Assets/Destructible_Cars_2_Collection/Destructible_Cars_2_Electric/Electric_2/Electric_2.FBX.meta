@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: bec39eb1febd7df448f1f9af5bc44f21
+timeCreated: 1470663005
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Elecric_2
+    100002: Elecric_2_Door_L
+    100004: Elecric_2_Door_R
+    100006: Elecric_2_Hood
+    100008: Elecric_2_Roof
+    100010: Elecric_2_Trunk
+    100012: //RootNode
+    100014: Electric_2_Dashboard
+    100016: Electric_2_Dashboard_Speedometer
+    100018: Electric_2_Dashboard_SteringWheel
+    100020: Electric_2_Window_B
+    100022: Electric_2_Window_F
+    100024: Electric_2_Window_L
+    100026: Electric_2_Window_R
+    100028: Electric_2_Window_T
+    100030: Electric_2_Window_TaillightsL
+    100032: Electric_2_Window_TaillightsR
+    400000: Elecric_2
+    400002: Elecric_2_Door_L
+    400004: Elecric_2_Door_R
+    400006: Elecric_2_Hood
+    400008: Elecric_2_Roof
+    400010: Elecric_2_Trunk
+    400012: //RootNode
+    400014: Electric_2_Dashboard
+    400016: Electric_2_Dashboard_Speedometer
+    400018: Electric_2_Dashboard_SteringWheel
+    400020: Electric_2_Window_B
+    400022: Electric_2_Window_F
+    400024: Electric_2_Window_L
+    400026: Electric_2_Window_R
+    400028: Electric_2_Window_T
+    400030: Electric_2_Window_TaillightsL
+    400032: Electric_2_Window_TaillightsR
+    2300000: Elecric_2
+    2300002: Elecric_2_Door_L
+    2300004: Elecric_2_Door_R
+    2300006: Elecric_2_Hood
+    2300008: Elecric_2_Roof
+    2300010: Elecric_2_Trunk
+    2300012: Electric_2_Dashboard
+    2300014: Electric_2_Dashboard_Speedometer
+    2300016: Electric_2_Dashboard_SteringWheel
+    2300018: Electric_2_Window_B
+    2300020: Electric_2_Window_F
+    2300022: Electric_2_Window_L
+    2300024: Electric_2_Window_R
+    2300026: Electric_2_Window_T
+    2300028: Electric_2_Window_TaillightsL
+    2300030: Electric_2_Window_TaillightsR
+    3300000: Elecric_2
+    3300002: Elecric_2_Door_L
+    3300004: Elecric_2_Door_R
+    3300006: Elecric_2_Hood
+    3300008: Elecric_2_Roof
+    3300010: Elecric_2_Trunk
+    3300012: Electric_2_Dashboard
+    3300014: Electric_2_Dashboard_Speedometer
+    3300016: Electric_2_Dashboard_SteringWheel
+    3300018: Electric_2_Window_B
+    3300020: Electric_2_Window_F
+    3300022: Electric_2_Window_L
+    3300024: Electric_2_Window_R
+    3300026: Electric_2_Window_T
+    3300028: Electric_2_Window_TaillightsL
+    3300030: Electric_2_Window_TaillightsR
+    4300000: Electric_2_Window_TaillightsL
+    4300002: Electric_2_Dashboard
+    4300004: Elecric_2
+    4300006: Elecric_2_Roof
+    4300008: Elecric_2_Hood
+    4300010: Elecric_2_Trunk
+    4300012: Elecric_2_Door_R
+    4300014: Elecric_2_Door_L
+    4300016: Electric_2_Dashboard_Speedometer
+    4300018: Electric_2_Dashboard_SteringWheel
+    4300020: Electric_2_Window_F
+    4300022: Electric_2_Window_R
+    4300024: Electric_2_Window_L
+    4300026: Electric_2_Window_T
+    4300028: Electric_2_Window_B
+    4300030: Electric_2_Window_TaillightsR
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

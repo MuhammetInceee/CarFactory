@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: cd83ca8c23b3d434496954e9bc70dc93
+timeCreated: 1478685964
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: OldSchool_1_Body
+    100004: OldSchool_1_Dashboard
+    100006: OldSchool_1_Dashboard_Speedometer
+    100008: OldSchool_1_Dashboard_Tachometer
+    100010: OldSchool_1_Door_L
+    100012: OldSchool_1_Door_R
+    100014: OldSchool_1_Door_Window_FL
+    100016: OldSchool_1_Door_Window_FR
+    100018: OldSchool_1_Door_Window_RL
+    100020: OldSchool_1_Door_Window_RR
+    100022: OldSchool_1_Hood
+    100024: OldSchool_1_Roof
+    100026: OldSchool_1_SterringWheel
+    100028: OldSchool_1_Trunk
+    100030: OldSchool_1_Trunk_Window
+    100032: OldSchool_1_Window_F
+    400000: //RootNode
+    400002: OldSchool_1_Body
+    400004: OldSchool_1_Dashboard
+    400006: OldSchool_1_Dashboard_Speedometer
+    400008: OldSchool_1_Dashboard_Tachometer
+    400010: OldSchool_1_Door_L
+    400012: OldSchool_1_Door_R
+    400014: OldSchool_1_Door_Window_FL
+    400016: OldSchool_1_Door_Window_FR
+    400018: OldSchool_1_Door_Window_RL
+    400020: OldSchool_1_Door_Window_RR
+    400022: OldSchool_1_Hood
+    400024: OldSchool_1_Roof
+    400026: OldSchool_1_SterringWheel
+    400028: OldSchool_1_Trunk
+    400030: OldSchool_1_Trunk_Window
+    400032: OldSchool_1_Window_F
+    2300000: OldSchool_1_Body
+    2300002: OldSchool_1_Dashboard
+    2300004: OldSchool_1_Dashboard_Speedometer
+    2300006: OldSchool_1_Dashboard_Tachometer
+    2300008: OldSchool_1_Door_L
+    2300010: OldSchool_1_Door_R
+    2300012: OldSchool_1_Door_Window_FL
+    2300014: OldSchool_1_Door_Window_FR
+    2300016: OldSchool_1_Door_Window_RL
+    2300018: OldSchool_1_Door_Window_RR
+    2300020: OldSchool_1_Hood
+    2300022: OldSchool_1_Roof
+    2300024: OldSchool_1_SterringWheel
+    2300026: OldSchool_1_Trunk
+    2300028: OldSchool_1_Trunk_Window
+    2300030: OldSchool_1_Window_F
+    3300000: OldSchool_1_Body
+    3300002: OldSchool_1_Dashboard
+    3300004: OldSchool_1_Dashboard_Speedometer
+    3300006: OldSchool_1_Dashboard_Tachometer
+    3300008: OldSchool_1_Door_L
+    3300010: OldSchool_1_Door_R
+    3300012: OldSchool_1_Door_Window_FL
+    3300014: OldSchool_1_Door_Window_FR
+    3300016: OldSchool_1_Door_Window_RL
+    3300018: OldSchool_1_Door_Window_RR
+    3300020: OldSchool_1_Hood
+    3300022: OldSchool_1_Roof
+    3300024: OldSchool_1_SterringWheel
+    3300026: OldSchool_1_Trunk
+    3300028: OldSchool_1_Trunk_Window
+    3300030: OldSchool_1_Window_F
+    4300000: OldSchool_1_Dashboard
+    4300002: OldSchool_1_Hood
+    4300004: OldSchool_1_Door_R
+    4300006: OldSchool_1_Trunk
+    4300008: OldSchool_1_Body
+    4300010: OldSchool_1_Door_L
+    4300012: OldSchool_1_Roof
+    4300014: OldSchool_1_Window_F
+    4300016: OldSchool_1_Door_Window_FL
+    4300018: OldSchool_1_Door_Window_RL
+    4300020: OldSchool_1_Trunk_Window
+    4300022: OldSchool_1_Door_Window_RR
+    4300024: OldSchool_1_Door_Window_FR
+    4300026: OldSchool_1_Dashboard_Tachometer
+    4300028: OldSchool_1_SterringWheel
+    4300030: OldSchool_1_Dashboard_Speedometer
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

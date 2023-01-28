@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 2b4b07e8af43aa34585cb579addf048d
+timeCreated: 1470752790
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SUV_2_Body
+    100004: SUV_2_Body_Window_RL
+    100006: SUV_2_Body_Window_RR
+    100008: SUV_2_Brake_FL
+    100010: SUV_2_Brake_FR
+    100012: SUV_2_Brake_RL
+    100014: SUV_2_Brake_RR
+    100016: SUV_2_Dashboard
+    100018: SUV_2_Door_FL
+    100020: SUV_2_Door_FR
+    100022: SUV_2_Door_RL
+    100024: SUV_2_Door_RR
+    100026: SUV_2_Door_Window_FL
+    100028: SUV_2_Door_Window_FR
+    100030: SUV_2_Door_Window_RL
+    100032: SUV_2_Door_Window_RR
+    100034: SUV_2_Hood
+    100036: SUV_2_Roof_Window_F
+    100038: SUV_2_Roof_Window_R
+    100040: SUV_2_SterringWheel
+    100042: SUV_2_Trunk
+    100044: SUV_2_Trunk_Window
+    100046: SUV_2_Window_F
+    100048: SUV_2_Window_Light_L
+    100050: SUV_2_Window_Light_P
+    100052: SUV_Dashboard_Speedometer
+    100054: SUV_Dashboard_Tachometer
+    400000: //RootNode
+    400002: SUV_2_Body
+    400004: SUV_2_Body_Window_RL
+    400006: SUV_2_Body_Window_RR
+    400008: SUV_2_Brake_FL
+    400010: SUV_2_Brake_FR
+    400012: SUV_2_Brake_RL
+    400014: SUV_2_Brake_RR
+    400016: SUV_2_Dashboard
+    400018: SUV_2_Door_FL
+    400020: SUV_2_Door_FR
+    400022: SUV_2_Door_RL
+    400024: SUV_2_Door_RR
+    400026: SUV_2_Door_Window_FL
+    400028: SUV_2_Door_Window_FR
+    400030: SUV_2_Door_Window_RL
+    400032: SUV_2_Door_Window_RR
+    400034: SUV_2_Hood
+    400036: SUV_2_Roof_Window_F
+    400038: SUV_2_Roof_Window_R
+    400040: SUV_2_SterringWheel
+    400042: SUV_2_Trunk
+    400044: SUV_2_Trunk_Window
+    400046: SUV_2_Window_F
+    400048: SUV_2_Window_Light_L
+    400050: SUV_2_Window_Light_P
+    400052: SUV_Dashboard_Speedometer
+    400054: SUV_Dashboard_Tachometer
+    2300000: SUV_2_Body
+    2300002: SUV_2_Body_Window_RL
+    2300004: SUV_2_Body_Window_RR
+    2300006: SUV_2_Brake_FL
+    2300008: SUV_2_Brake_FR
+    2300010: SUV_2_Brake_RL
+    2300012: SUV_2_Brake_RR
+    2300014: SUV_2_Dashboard
+    2300016: SUV_2_Door_FL
+    2300018: SUV_2_Door_FR
+    2300020: SUV_2_Door_RL
+    2300022: SUV_2_Door_RR
+    2300024: SUV_2_Door_Window_FL
+    2300026: SUV_2_Door_Window_FR
+    2300028: SUV_2_Door_Window_RL
+    2300030: SUV_2_Door_Window_RR
+    2300032: SUV_2_Hood
+    2300034: SUV_2_Roof_Window_F
+    2300036: SUV_2_Roof_Window_R
+    2300038: SUV_2_SterringWheel
+    2300040: SUV_2_Trunk
+    2300042: SUV_2_Trunk_Window
+    2300044: SUV_2_Window_F
+    2300046: SUV_2_Window_Light_L
+    2300048: SUV_2_Window_Light_P
+    2300050: SUV_Dashboard_Speedometer
+    2300052: SUV_Dashboard_Tachometer
+    3300000: SUV_2_Body
+    3300002: SUV_2_Body_Window_RL
+    3300004: SUV_2_Body_Window_RR
+    3300006: SUV_2_Brake_FL
+    3300008: SUV_2_Brake_FR
+    3300010: SUV_2_Brake_RL
+    3300012: SUV_2_Brake_RR
+    3300014: SUV_2_Dashboard
+    3300016: SUV_2_Door_FL
+    3300018: SUV_2_Door_FR
+    3300020: SUV_2_Door_RL
+    3300022: SUV_2_Door_RR
+    3300024: SUV_2_Door_Window_FL
+    3300026: SUV_2_Door_Window_FR
+    3300028: SUV_2_Door_Window_RL
+    3300030: SUV_2_Door_Window_RR
+    3300032: SUV_2_Hood
+    3300034: SUV_2_Roof_Window_F
+    3300036: SUV_2_Roof_Window_R
+    3300038: SUV_2_SterringWheel
+    3300040: SUV_2_Trunk
+    3300042: SUV_2_Trunk_Window
+    3300044: SUV_2_Window_F
+    3300046: SUV_2_Window_Light_L
+    3300048: SUV_2_Window_Light_P
+    3300050: SUV_Dashboard_Speedometer
+    3300052: SUV_Dashboard_Tachometer
+    4300000: SUV_2_Body
+    4300002: SUV_2_Dashboard
+    4300004: SUV_2_Hood
+    4300006: SUV_2_Door_RR
+    4300008: SUV_2_Door_FR
+    4300010: SUV_2_Trunk
+    4300012: SUV_Dashboard_Speedometer
+    4300014: SUV_Dashboard_Tachometer
+    4300016: SUV_2_Door_FL
+    4300018: SUV_2_Door_RL
+    4300020: SUV_2_Door_Window_FR
+    4300022: SUV_2_Door_Window_RR
+    4300024: SUV_2_Door_Window_RL
+    4300026: SUV_2_Door_Window_FL
+    4300028: SUV_2_Body_Window_RR
+    4300030: SUV_2_Body_Window_RL
+    4300032: SUV_2_Window_F
+    4300034: SUV_2_Roof_Window_R
+    4300036: SUV_2_Roof_Window_F
+    4300038: SUV_2_Window_Light_P
+    4300040: SUV_2_Window_Light_L
+    4300042: SUV_2_Brake_FR
+    4300044: SUV_2_Brake_RR
+    4300046: SUV_2_Brake_RL
+    4300048: SUV_2_Brake_FL
+    4300050: SUV_2_SterringWheel
+    4300052: SUV_2_Trunk_Window
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

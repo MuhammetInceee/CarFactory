@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 6a48a48290817dd4385fff1b66fa7535
+timeCreated: 1478689878
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Truck_2_Beck
+    100004: Truck_2_Body
+    100006: Truck_2_Door_FL
+    100008: Truck_2_Door_FR
+    100010: Truck_2_Door_Window_FL
+    100012: Truck_2_Door_Window_FR
+    100014: Truck_2_Roof
+    100016: Truck_2_Speedometer_1
+    100018: Truck_2_Speedometer_2
+    100020: Truck_2_Steering_Wheel
+    100022: Truck_2_Window_F
+    400000: //RootNode
+    400002: Truck_2_Beck
+    400004: Truck_2_Body
+    400006: Truck_2_Door_FL
+    400008: Truck_2_Door_FR
+    400010: Truck_2_Door_Window_FL
+    400012: Truck_2_Door_Window_FR
+    400014: Truck_2_Roof
+    400016: Truck_2_Speedometer_1
+    400018: Truck_2_Speedometer_2
+    400020: Truck_2_Steering_Wheel
+    400022: Truck_2_Window_F
+    2300000: Truck_2_Beck
+    2300002: Truck_2_Body
+    2300004: Truck_2_Door_FL
+    2300006: Truck_2_Door_FR
+    2300008: Truck_2_Door_Window_FL
+    2300010: Truck_2_Door_Window_FR
+    2300012: Truck_2_Roof
+    2300014: Truck_2_Speedometer_1
+    2300016: Truck_2_Speedometer_2
+    2300018: Truck_2_Steering_Wheel
+    2300020: Truck_2_Window_F
+    3300000: Truck_2_Beck
+    3300002: Truck_2_Body
+    3300004: Truck_2_Door_FL
+    3300006: Truck_2_Door_FR
+    3300008: Truck_2_Door_Window_FL
+    3300010: Truck_2_Door_Window_FR
+    3300012: Truck_2_Roof
+    3300014: Truck_2_Speedometer_1
+    3300016: Truck_2_Speedometer_2
+    3300018: Truck_2_Steering_Wheel
+    3300020: Truck_2_Window_F
+    4300000: Truck_2_Door_FR
+    4300002: Truck_2_Roof
+    4300004: Truck_2_Steering_Wheel
+    4300006: Truck_2_Body
+    4300008: Truck_2_Beck
+    4300010: Truck_2_Door_FL
+    4300012: Truck_2_Speedometer_1
+    4300014: Truck_2_Speedometer_2
+    4300016: Truck_2_Window_F
+    4300018: Truck_2_Door_Window_FR
+    4300020: Truck_2_Door_Window_FL
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

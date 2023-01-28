@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53664f1a-a7ec-47a0-a813-3aea0b2d1ed5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/40205bb2cb25478a9cb0f5e54cf11441157400/3d/f55d0563/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/40205bb2cb25478a9cb0f5e54cf11441157400/51/e0f9d170/Scene.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/de1f8ef4975b4eacbeb0accc1b22c9b02a000/1b/0a7d0f49/DOVirtual.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/LabelBlocks.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Baseball-Idle/Assets/OXO/Scripts/_Scripts/BaseballPlayer/UnlockNewPlayerMain.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Baseball-Idle/Assets/OXO/Scripts/_Scripts/Managers/MoneyManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Baseball-Idle/Assets/OXO/Scripts/_Scripts/Managers/UIManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ButtonRunner/Assets/OXO/Scripts/_Scripts/ManagerLevel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OXO/Scripts/_Scripts/CarPiece.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OXO/Scripts/_Scripts/CraneController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OXO/Scripts/_Scripts/HelperUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OXO/Scripts/_Scripts/Managers/LevelSceneManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OXO/Scripts/_Scripts/Managers/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OXO/Scripts/_Scripts/NextLevelButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OXO/Scripts/_Scripts/PartFitting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OXO/Scripts/_Scripts/Player/PlayerCollider/GetPart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OXO/Scripts/_Scripts/Triggers/CheckTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OXO/Scripts/_Scripts/Triggers/DestroyTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OXO/Scripts/_Scripts/Triggers/PainterStoper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OXO/Scripts/_Scripts/Triggers/PainterTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OXO/Scripts/_Scripts/Triggers/PirrPara.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OXO/Scripts/_Scripts/Triggers/PlayerStopperTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BsndqeB7aQaPB7jLSsDrzpGhbc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.2f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\oxoga\OneDrive\Belgeler\GitHub\CarFactoryOxo -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\oxoga\OneDrive\Belgeler\GitHub\CarFactoryOxo" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53664f1a-a7ec-47a0-a813-3aea0b2d1ed5" name="Changes" comment="" />
+      <created>1657703752225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657703752225</updated>
+      <workItem from="1657703756701" duration="5205000" />
+      <workItem from="1657719163373" duration="5637000" />
+      <workItem from="1657783301358" duration="10594000" />
+      <workItem from="1657868557126" duration="15615000" />
+      <workItem from="1658217802861" duration="17886000" />
+      <workItem from="1658301726704" duration="14058000" />
+      <workItem from="1658387438674" duration="17051000" />
+      <workItem from="1658475116023" duration="3825000" />
+      <workItem from="1658744977282" duration="12207000" />
+      <workItem from="1659119304595" duration="1548000" />
+      <workItem from="1659339642605" duration="11261000" />
+      <workItem from="1659430473188" duration="4588000" />
+      <workItem from="1659513065586" duration="11832000" />
+      <workItem from="1659538294230" duration="583000" />
+      <workItem from="1659599708053" duration="19468000" />
+      <workItem from="1659687845092" duration="15334000" />
+      <workItem from="1659949962881" duration="4546000" />
+      <workItem from="1659971331365" duration="2823000" />
+      <workItem from="1660033769522" duration="5871000" />
+      <workItem from="1660133510805" duration="430000" />
+      <workItem from="1660229224106" duration="100000" />
+      <workItem from="1660229381503" duration="1018000" />
+      <workItem from="1660554678981" duration="20809000" />
+      <workItem from="1660637636605" duration="1717000" />
+      <workItem from="1660729098037" duration="5535000" />
+      <workItem from="1660815212165" duration="415000" />
+      <workItem from="1660830735488" duration="1058000" />
+      <workItem from="1661269862611" duration="133000" />
+      <workItem from="1661327796316" duration="3474000" />
+      <workItem from="1661415505218" duration="1971000" />
+      <workItem from="1661420627814" duration="3063000" />
+      <workItem from="1661510862035" duration="2369000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

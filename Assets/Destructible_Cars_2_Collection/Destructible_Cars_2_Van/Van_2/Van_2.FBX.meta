@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: cac0e5c5e84d5ea49a751bfdd6aba913
+timeCreated: 1470747996
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: VAN_2_Body
+    100004: VAN_2_Brake_FL
+    100006: VAN_2_Brake_FR
+    100008: VAN_2_Brake_RL
+    100010: VAN_2_Brake_RR
+    100012: VAN_2_Dashboard
+    100014: VAN_2_Door_BL
+    100016: VAN_2_Door_BR
+    100018: VAN_2_Door_FL
+    100020: VAN_2_Door_FR
+    100022: VAN_2_Door_RL
+    100024: VAN_2_Door_RR
+    100026: VAN_2_Door_Window_FL
+    100028: VAN_2_Door_Window_FR
+    100030: VAN_2_Door_Window_RL
+    100032: VAN_2_Door_Window_RR
+    100034: VAN_2_Hood
+    100036: VAN_2_Roof
+    100038: VAN_2_SterringWheel
+    100040: VAN_2_Window_F
+    100042: VAN_2_Window_Light_L
+    100044: VAN_2_Window_Light_P
+    100046: VAN_Dashboard_Speedometer
+    100048: VAN_Dashboard_Tachometer
+    400000: //RootNode
+    400002: VAN_2_Body
+    400004: VAN_2_Brake_FL
+    400006: VAN_2_Brake_FR
+    400008: VAN_2_Brake_RL
+    400010: VAN_2_Brake_RR
+    400012: VAN_2_Dashboard
+    400014: VAN_2_Door_BL
+    400016: VAN_2_Door_BR
+    400018: VAN_2_Door_FL
+    400020: VAN_2_Door_FR
+    400022: VAN_2_Door_RL
+    400024: VAN_2_Door_RR
+    400026: VAN_2_Door_Window_FL
+    400028: VAN_2_Door_Window_FR
+    400030: VAN_2_Door_Window_RL
+    400032: VAN_2_Door_Window_RR
+    400034: VAN_2_Hood
+    400036: VAN_2_Roof
+    400038: VAN_2_SterringWheel
+    400040: VAN_2_Window_F
+    400042: VAN_2_Window_Light_L
+    400044: VAN_2_Window_Light_P
+    400046: VAN_Dashboard_Speedometer
+    400048: VAN_Dashboard_Tachometer
+    2300000: VAN_2_Body
+    2300002: VAN_2_Brake_FL
+    2300004: VAN_2_Brake_FR
+    2300006: VAN_2_Brake_RL
+    2300008: VAN_2_Brake_RR
+    2300010: VAN_2_Dashboard
+    2300012: VAN_2_Door_BL
+    2300014: VAN_2_Door_BR
+    2300016: VAN_2_Door_FL
+    2300018: VAN_2_Door_FR
+    2300020: VAN_2_Door_RL
+    2300022: VAN_2_Door_RR
+    2300024: VAN_2_Door_Window_FL
+    2300026: VAN_2_Door_Window_FR
+    2300028: VAN_2_Door_Window_RL
+    2300030: VAN_2_Door_Window_RR
+    2300032: VAN_2_Hood
+    2300034: VAN_2_Roof
+    2300036: VAN_2_SterringWheel
+    2300038: VAN_2_Window_F
+    2300040: VAN_2_Window_Light_L
+    2300042: VAN_2_Window_Light_P
+    2300044: VAN_Dashboard_Speedometer
+    2300046: VAN_Dashboard_Tachometer
+    3300000: VAN_2_Body
+    3300002: VAN_2_Brake_FL
+    3300004: VAN_2_Brake_FR
+    3300006: VAN_2_Brake_RL
+    3300008: VAN_2_Brake_RR
+    3300010: VAN_2_Dashboard
+    3300012: VAN_2_Door_BL
+    3300014: VAN_2_Door_BR
+    3300016: VAN_2_Door_FL
+    3300018: VAN_2_Door_FR
+    3300020: VAN_2_Door_RL
+    3300022: VAN_2_Door_RR
+    3300024: VAN_2_Door_Window_FL
+    3300026: VAN_2_Door_Window_FR
+    3300028: VAN_2_Door_Window_RL
+    3300030: VAN_2_Door_Window_RR
+    3300032: VAN_2_Hood
+    3300034: VAN_2_Roof
+    3300036: VAN_2_SterringWheel
+    3300038: VAN_2_Window_F
+    3300040: VAN_2_Window_Light_L
+    3300042: VAN_2_Window_Light_P
+    3300044: VAN_Dashboard_Speedometer
+    3300046: VAN_Dashboard_Tachometer
+    4300000: VAN_2_Body
+    4300002: VAN_2_Hood
+    4300004: VAN_2_Roof
+    4300006: VAN_2_Door_BR
+    4300008: VAN_2_Door_BL
+    4300010: VAN_2_Door_RL
+    4300012: VAN_2_Door_FL
+    4300014: VAN_2_Door_FR
+    4300016: VAN_2_Door_RR
+    4300018: VAN_2_Dashboard
+    4300020: VAN_Dashboard_Tachometer
+    4300022: VAN_Dashboard_Speedometer
+    4300024: VAN_2_SterringWheel
+    4300026: VAN_2_Window_Light_P
+    4300028: VAN_2_Window_Light_L
+    4300030: VAN_2_Window_F
+    4300032: VAN_2_Brake_RL
+    4300034: VAN_2_Brake_RR
+    4300036: VAN_2_Brake_FR
+    4300038: VAN_2_Brake_FL
+    4300040: VAN_2_Door_Window_RL
+    4300042: VAN_2_Door_Window_FL
+    4300044: VAN_2_Door_Window_RR
+    4300046: VAN_2_Door_Window_FR
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

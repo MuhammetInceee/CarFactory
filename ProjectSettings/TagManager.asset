@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door1
+  - Door2
+  - Door1Car
+  - Door2Car
+  - Obstacle
+  - Worker
+  - Trunk
+  - TrunkCar
+  - Hood
+  - HoodCar
+  - Engine
+  - EngineCar
+  - Wheel1
+  - Wheel2
+  - Wheel3
+  - Wheel4
+  - Wheel1Car
+  - Wheel2Car
+  - Wheel3Car
+  - Wheel4Car
+  - Door3
+  - Door4
+  - Door3Car
+  - Door4Car
+  - GateTrigger
+  - ProgressTrigger
+  - Stopper
+  - Painter
+  - Rail
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PainterTrigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

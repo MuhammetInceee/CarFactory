@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 90850918e876a94439e364d25d757ec4
+timeCreated: 1470755215
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Classic_2_Body
+    100004: Classic_2_Door_L
+    100006: Classic_2_Door_R
+    100008: Classic_2_Glass_F
+    100010: Classic_2_Glass_FL
+    100012: Classic_2_Glass_FR
+    100014: Classic_2_Glass_R
+    100016: Classic_2_Glass_RL
+    100018: Classic_2_Glass_RR
+    100020: Classic_2_Hood
+    100022: Classic_2_Roof
+    100024: Classic_2_Taillights
+    100026: Classic_2_Trunk
+    100028: Classic_Dashboard
+    100030: Classic_Dashboard_Indicator
+    100032: Classic_Dashboard_Lights
+    100034: Classic_Dashboard_Speedometer
+    100036: Classic_Dashboard_SteeringWheel
+    100038: Classic_Dashboard_Wipers
+    100040: Classic_Dashboard_x100
+    400000: //RootNode
+    400002: Classic_2_Body
+    400004: Classic_2_Door_L
+    400006: Classic_2_Door_R
+    400008: Classic_2_Glass_F
+    400010: Classic_2_Glass_FL
+    400012: Classic_2_Glass_FR
+    400014: Classic_2_Glass_R
+    400016: Classic_2_Glass_RL
+    400018: Classic_2_Glass_RR
+    400020: Classic_2_Hood
+    400022: Classic_2_Roof
+    400024: Classic_2_Taillights
+    400026: Classic_2_Trunk
+    400028: Classic_Dashboard
+    400030: Classic_Dashboard_Indicator
+    400032: Classic_Dashboard_Lights
+    400034: Classic_Dashboard_Speedometer
+    400036: Classic_Dashboard_SteeringWheel
+    400038: Classic_Dashboard_Wipers
+    400040: Classic_Dashboard_x100
+    2300000: Classic_2_Body
+    2300002: Classic_2_Door_L
+    2300004: Classic_2_Door_R
+    2300006: Classic_2_Glass_F
+    2300008: Classic_2_Glass_FL
+    2300010: Classic_2_Glass_FR
+    2300012: Classic_2_Glass_R
+    2300014: Classic_2_Glass_RL
+    2300016: Classic_2_Glass_RR
+    2300018: Classic_2_Hood
+    2300020: Classic_2_Roof
+    2300022: Classic_2_Taillights
+    2300024: Classic_2_Trunk
+    2300026: Classic_Dashboard
+    2300028: Classic_Dashboard_Indicator
+    2300030: Classic_Dashboard_Lights
+    2300032: Classic_Dashboard_Speedometer
+    2300034: Classic_Dashboard_SteeringWheel
+    2300036: Classic_Dashboard_Wipers
+    2300038: Classic_Dashboard_x100
+    3300000: Classic_2_Body
+    3300002: Classic_2_Door_L
+    3300004: Classic_2_Door_R
+    3300006: Classic_2_Glass_F
+    3300008: Classic_2_Glass_FL
+    3300010: Classic_2_Glass_FR
+    3300012: Classic_2_Glass_R
+    3300014: Classic_2_Glass_RL
+    3300016: Classic_2_Glass_RR
+    3300018: Classic_2_Hood
+    3300020: Classic_2_Roof
+    3300022: Classic_2_Taillights
+    3300024: Classic_2_Trunk
+    3300026: Classic_Dashboard
+    3300028: Classic_Dashboard_Indicator
+    3300030: Classic_Dashboard_Lights
+    3300032: Classic_Dashboard_Speedometer
+    3300034: Classic_Dashboard_SteeringWheel
+    3300036: Classic_Dashboard_Wipers
+    3300038: Classic_Dashboard_x100
+    4300000: Classic_2_Body
+    4300002: Classic_2_Door_L
+    4300004: Classic_2_Door_R
+    4300006: Classic_2_Glass_F
+    4300008: Classic_2_Glass_FL
+    4300010: Classic_2_Glass_FR
+    4300012: Classic_2_Glass_R
+    4300014: Classic_2_Glass_RL
+    4300016: Classic_2_Glass_RR
+    4300018: Classic_2_Hood
+    4300020: Classic_2_Roof
+    4300022: Classic_2_Taillights
+    4300024: Classic_2_Trunk
+    4300026: Classic_Dashboard
+    4300028: Classic_Dashboard_SteeringWheel
+    4300030: Classic_Dashboard_Lights
+    4300032: Classic_Dashboard_Indicator
+    4300034: Classic_Dashboard_Wipers
+    4300036: Classic_Dashboard_Speedometer
+    4300038: Classic_Dashboard_x100
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

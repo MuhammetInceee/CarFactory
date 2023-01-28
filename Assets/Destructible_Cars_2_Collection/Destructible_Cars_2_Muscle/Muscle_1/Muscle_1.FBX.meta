@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: f514a028b3bd4ac48afb204359323320
+timeCreated: 1470659812
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Muscle_1
+    100004: Muscle_1_Door_L
+    100006: Muscle_1_Glass_F
+    100008: Muscle_1_Glass_FL
+    100010: Muscle_1_Glass_FR
+    100012: Muscle_1_Glass_R
+    100014: Muscle_1_Glass_RL
+    100016: Muscle_1_Glass_RR
+    100018: Muscle_1_Hood
+    100020: Muscle_1_LightsGlass_L
+    100022: Muscle_1_LightsGlass_R
+    100024: Muscle_1_Trunk
+    100026: Muscle_Dashboard
+    100028: Muscle_Dashboard_Indicator
+    100030: Muscle_Dashboard_Steering_Wheel
+    100032: Texture Group
+    100034: Muscle_1_Door_R
+    400000: //RootNode
+    400002: Muscle_1
+    400004: Muscle_1_Door_L
+    400006: Muscle_1_Glass_F
+    400008: Muscle_1_Glass_FL
+    400010: Muscle_1_Glass_FR
+    400012: Muscle_1_Glass_R
+    400014: Muscle_1_Glass_RL
+    400016: Muscle_1_Glass_RR
+    400018: Muscle_1_Hood
+    400020: Muscle_1_LightsGlass_L
+    400022: Muscle_1_LightsGlass_R
+    400024: Muscle_1_Trunk
+    400026: Muscle_Dashboard
+    400028: Muscle_Dashboard_Indicator
+    400030: Muscle_Dashboard_Steering_Wheel
+    400032: Texture Group
+    400034: Muscle_1_Door_R
+    2300000: Muscle_1
+    2300002: Muscle_1_Door_L
+    2300004: Muscle_1_Glass_F
+    2300006: Muscle_1_Glass_FL
+    2300008: Muscle_1_Glass_FR
+    2300010: Muscle_1_Glass_R
+    2300012: Muscle_1_Glass_RL
+    2300014: Muscle_1_Glass_RR
+    2300016: Muscle_1_Hood
+    2300018: Muscle_1_LightsGlass_L
+    2300020: Muscle_1_LightsGlass_R
+    2300022: Muscle_1_Trunk
+    2300024: Muscle_Dashboard
+    2300026: Muscle_Dashboard_Indicator
+    2300028: Muscle_Dashboard_Steering_Wheel
+    2300030: Muscle_1_Door_R
+    3300000: Muscle_1
+    3300002: Muscle_1_Door_L
+    3300004: Muscle_1_Glass_F
+    3300006: Muscle_1_Glass_FL
+    3300008: Muscle_1_Glass_FR
+    3300010: Muscle_1_Glass_R
+    3300012: Muscle_1_Glass_RL
+    3300014: Muscle_1_Glass_RR
+    3300016: Muscle_1_Hood
+    3300018: Muscle_1_LightsGlass_L
+    3300020: Muscle_1_LightsGlass_R
+    3300022: Muscle_1_Trunk
+    3300024: Muscle_Dashboard
+    3300026: Muscle_Dashboard_Indicator
+    3300028: Muscle_Dashboard_Steering_Wheel
+    3300030: Muscle_1_Door_R
+    4300000: Muscle_1
+    4300002: Muscle_1_Door_L
+    4300004: Muscle_1_Hood
+    4300006: Muscle_1_Trunk
+    4300008: Muscle_Dashboard
+    4300010: Muscle_1_Glass_FR
+    4300012: Muscle_1_Glass_RR
+    4300014: Muscle_1_Glass_F
+    4300016: Muscle_1_Glass_FL
+    4300018: Muscle_1_Glass_RL
+    4300020: Muscle_1_Glass_R
+    4300022: Muscle_1_LightsGlass_L
+    4300024: Muscle_1_LightsGlass_R
+    4300026: Muscle_Dashboard_Steering_Wheel
+    4300028: Muscle_Dashboard_Indicator
+    4300030: Muscle_1_Door_R
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
